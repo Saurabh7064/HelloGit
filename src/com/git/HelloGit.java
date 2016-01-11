@@ -7,4 +7,8 @@ public class HelloGit {
 		System.out.println(message);
 	}
 	
+	public HelloGit(int number){
+		System.out.println(number);
+	}
+	
 }
