@@ -10,5 +10,7 @@ public class HelloGit {
 	public HelloGit(int number){
 		System.out.println(number);
 	}
-	
+	public HelloGit(int number,String message){
+		System.out.println(number+"partial");
+	}
 }
